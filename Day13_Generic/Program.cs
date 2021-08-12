@@ -26,8 +26,15 @@ namespace Day13_Generic
             // for float values checking maximum number
             double doubleoutput4 = MaximumNumberCheck.MaximumFloatNumber(1.1, 1.2, 1.3);
             Console.WriteLine(doubleoutput4);
-            
-
+            // Test2.1
+            double doubleoutput5 = MaximumNumberCheck.MaximumFloatNumber(1.3, 1.2, 1.1);
+            Console.WriteLine(doubleoutput4);
+            // Test2.2
+            double doubleoutput6 = MaximumNumberCheck.MaximumFloatNumber(1.1, 1.3, 1.2);
+            Console.WriteLine(doubleoutput4);
+            //Test2.3
+            double doubleoutput7 = MaximumNumberCheck.MaximumFloatNumber(1.1, 1.2, 1.3);
+            Console.WriteLine(doubleoutput4);
 
 
 
