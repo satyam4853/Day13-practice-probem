@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\day13\Day13_Generic\Day13_Generic\bin\Debug\netcoreapp3.1\Day13_Generic.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\day13\Day13_Generic\Day13_Generic\bin\Debug\netcoreapp3.1\Day13_Generic.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day13\Day13_Generic\Day13_Generic\bin\Debug\netcoreapp3.1\Day13_Generic.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day13\Day13_Generic\Day13_Generic\bin\Debug\netcoreapp3.1\Day13_Generic.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day13\Day13_Generic\Day13_Generic\bin\Debug\netcoreapp3.1\Day13_Generic.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day13\Day13_Generic\Day13_Generic\bin\Debug\netcoreapp3.1\Day13_Generic.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day13\Day13_Generic\Day13_Generic\obj\Debug\netcoreapp3.1\Day13_Generic.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day13\Day13_Generic\Day13_Generic\obj\Debug\netcoreapp3.1\Day13_Generic.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day13\Day13_Generic\Day13_Generic\obj\Debug\netcoreapp3.1\Day13_Generic.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\day13\Day13_Generic\Day13_Generic\obj\Debug\netcoreapp3.1\Day13_Generic.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day13\Day13_Generic\Day13_Generic\obj\Debug\netcoreapp3.1\Day13_Generic.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day13\Day13_Generic\Day13_Generic\obj\Debug\netcoreapp3.1\Day13_Generic.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day13\Day13_Generic\Day13_Generic\obj\Debug\netcoreapp3.1\Day13_Generic.genruntimeconfig.cache
