@@ -38,6 +38,11 @@ namespace Day13_Generic
 
 
 
+            string stringooutput1 = MaximumNumberCheck.MaximumStringNumber("Apple", "peach", "Banana");
+            Console.WriteLine(stringooutput1);
+
+
+
         }
     }
 }

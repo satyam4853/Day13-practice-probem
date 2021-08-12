@@ -50,5 +50,25 @@ namespace Day13_Generic
 
 
         }
+        public static String MaximumStringNumber(String firstvalue, string secondvalue, string thirdvalue)
+        {
+            if (firstvalue.CompareTo(secondvalue) > 0 && firstvalue.CompareTo(thirdvalue) > 0)
+            {
+                return firstvalue;
+
+            }
+            if (secondvalue.CompareTo(firstvalue) > 0 && secondvalue.CompareTo(thirdvalue) > 0)
+            {
+                return secondvalue;
+            }
+            if (thirdvalue.CompareTo(firstvalue) > 0 && thirdvalue.CompareTo(secondvalue) > 0)
+            {
+                return thirdvalue;
+            }
+            throw new Exception("firstNumber,SecondNumber,ThirdNumber are same ");
+
+
+
+        }
     }
 }
