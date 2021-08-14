@@ -25,11 +25,7 @@ namespace Day13_Generic
             var sorted_values = Sort(values);
             return sorted_values[^1];
         }
-    //    public T MaxMethod()
-    //{
-    //        var max = MaxValue(this.value);
-    //        return max;
-    //    }
+   
         public void PrintMaxValue()
         {
             var max = MaxValue(this.value);
